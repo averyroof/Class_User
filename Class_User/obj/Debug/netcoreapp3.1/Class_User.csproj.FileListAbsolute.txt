@@ -1,0 +1,13 @@
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.exe
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.deps.json
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.runtimeconfig.json
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.runtimeconfig.dev.json
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.dll
+C:\Projects\RiderProjects\Class_User\Class_User\bin\Debug\netcoreapp3.1\Class_User.pdb
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.csprojAssemblyReference.cache
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.csproj.CoreCompileInputs.cache
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.AssemblyInfoInputs.cache
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.AssemblyInfo.cs
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.dll
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.pdb
+C:\Projects\RiderProjects\Class_User\Class_User\obj\Debug\netcoreapp3.1\Class_User.genruntimeconfig.cache
